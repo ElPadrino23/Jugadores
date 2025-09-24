@@ -1,0 +1,15 @@
+Patrick Mahomes, Velocidad:92, Fuerza:85, Agilidad:95
+Aaron Rodgers, Velocidad:78, Fuerza:88, Agilidad:82
+Tom Brady, Velocidad:65, Fuerza:90, Agilidad:70
+Lamar Jackson, Velocidad:98, Fuerza:80, Agilidad:97
+Josh Allen, Velocidad:85, Fuerza:95, Agilidad:88
+Dak Prescott, Velocidad:82, Fuerza:87, Agilidad:84
+Joe Burrow, Velocidad:80, Fuerza:83, Agilidad:86
+Justin Herbert, Velocidad:76, Fuerza:92, Agilidad:79
+Jalen Hurts, Velocidad:94, Fuerza:89, Agilidad:93
+Kyler Murray, Velocidad:96, Fuerza:78, Agilidad:98
+Derrick Henry, Velocidad:90, Fuerza:100, Agilidad:85
+Christian McCaffrey, Velocidad:95, Fuerza:82, Agilidad:96
+Saquon Barkley, Velocidad:93, Fuerza:91, Agilidad:92
+Nick Bosa, Velocidad:72, Fuerza:98, Agilidad:75
+Aaron Donald, Velocidad:68, Fuerza:99, Agilidad:80
